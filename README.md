@@ -127,6 +127,11 @@ git pull origin dev
  ```bash
  git fetch -p
  ```
+ ### 6.5. Vérifier les branches
+ Pour vérifier si j'ai bien toutes mes branches à jour en locale, je peux les lister :
+ ```bash
+ git branch -a
+ ```
 
  ---
 
