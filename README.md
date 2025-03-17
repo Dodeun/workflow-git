@@ -87,6 +87,10 @@ git pull origin dev
 
  Je vais sur GitHub et crée une Pull Request (PR) de `user_story_name` vers `dev`.
 
+ Je veille à ajouter:
+ - En tant que reviewers les personnes concernées par l'examen du code, qui seront chargées de vérifier sa qualité, son fonctionnement et sa conformité.
+ - En tant qu'assignees, je désigne la ou les personnes responsables de la validation finale et de la fusion de notre branche dans la branche principale.
+
  On croise les doigts pour ne pas avoir de conflits ! 🤞
 
  ### 5.1. Revue de code avec mon binôme
